@@ -1,1 +1,1 @@
-fichero1
+fico1
